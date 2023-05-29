@@ -13,7 +13,7 @@ Is not too the same thing that you can obtain for RetroArch but is very similar.
 
 # Licensing
 This project can be used in the way you want in a totally free way.
-However, this project has used some shaders that can be found in the [libreto shaders](https://github.com/libretro/slang-shaders/tree/master/crt).
+However, this project has used some shaders that can be found in the [libreto shaders](https://github.com/libretro/slang-shaders).
 Each one has its own license, so check each one for more detail.
 
 # Context
