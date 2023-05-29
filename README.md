@@ -5,11 +5,16 @@ while enjoying the colorful and vibrant visuals of your favorite video game.
 This preset used some of the retroarch built-in shaders:
 * Bicubic Shader;
 * SGEN MIX Dithering;
-* CRT-Consumer Shader (a little modified to includ a custom background that you can replace).
+* CRT-Consumer Shader (a little modified version to includ a custom background that you can replace).
 
 From here you can obtain the preset for GLSL output configurations and SLANG configurations.
 Additionaly, I made a profile preset for [ShaderGlass](https://github.com/mausimus/ShaderGlass) tool.
 Is not too the same thing that you can obtain for RetroArch but is very similar.
+
+# Licensing
+This project can be used in the way you want in a totally free way.
+However, this project has used some shaders that can be found in the [libreto shaders](https://github.com/libretro/slang-shaders/tree/master/crt).
+Each one has its own license, so check each one for more detail.
 
 # Context
 I've created this shader preset with the intention of having a way to play old games just as I remembered them.
