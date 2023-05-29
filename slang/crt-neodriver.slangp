@@ -1,0 +1,20 @@
+shaders = 3
+
+shader0 = "resources/shaders/bicubic.slang"
+filter_linear0 = false
+
+shader1 = "resources/shaders/sgenpt-mix.slang"
+filter_linear1 = false
+scale_type1 = source
+scale1 = 1.0
+
+shader2 = "resources/shaders/crt-consumer.slang"
+filter_linear2 = "true"
+wrap_mode2 = "clamp_to_border"
+mipmap_input2 = "false"
+alias2 = ""
+float_framebuffer2 = "false"
+srgb_framebuffer2 = "false"
+
+textures = "BORDER"
+BORDER = "resources/textures/background.png"

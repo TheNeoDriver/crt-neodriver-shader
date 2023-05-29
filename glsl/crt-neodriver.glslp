@@ -1,0 +1,21 @@
+shaders = "3"
+
+shader0 = "resources/shaders/bicubic.glsl"
+filter_linear0 = "false"
+
+shader1 = "resources/shaders/sgenpt-mix.glsl"
+filter_linear1 = "false"
+scale_type1 = "source"
+wrap_mode1 = "clamp_to_border"
+scale0 = "1.0"
+
+shader2 = "resources/shaders/crt-consumer+neodriver-background.glsl"
+filter_linear2 = "true"
+wrap_mode2 = "clamp_to_border"
+mipmap_input2 = "false"
+alias2 = ""
+float_framebuffer2 = "false"
+srgb_framebuffer2 = "false"
+
+textures = "Background"
+Background = "resources/textures/background.png"
