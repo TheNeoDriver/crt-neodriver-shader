@@ -10,6 +10,8 @@ file and "shaders" folder) into new folder in your
 
 3. Activate crt-neodriver and configurate the resolution
 for the game (first parameter). This is the key to change
-the visuals.
+the visuals. (Tested on 768p and 1080p: for 768p best results
+use 480 as the game resolution value, and for 1080p
+use 540.)
 
 4. Enjoy.
