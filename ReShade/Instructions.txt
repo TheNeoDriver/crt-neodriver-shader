@@ -1,0 +1,15 @@
+@TheNeoDriver
+
+-- CRT Neodriver Reshade --
+
+1. Install Reshade in your game.
+
+2. Copy the content of this folder ("crt-neodriver.fx"
+file and "shaders" folder) into new folder in your
+"/reshade-shaders/shaders/..." path.
+
+3. Activate crt-neodriver and configurate the resolution
+for the game (first parameter). This is the key to change
+the visuals.
+
+4. Enjoy.
